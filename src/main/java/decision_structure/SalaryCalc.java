@@ -13,6 +13,7 @@ public class SalaryCalc {
 
         Scanner scanner = new Scanner(System.in);
         int sales = scanner.nextInt();
+        scanner.close();
 
 
 
