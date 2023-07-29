@@ -7,7 +7,7 @@ target/
 
 # Files created by the IDE
 .idea/
-*.iml
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
